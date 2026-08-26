@@ -1,2 +1,3 @@
-![Static Badge](https://img.shields.io/badge/Silly_Billy-blue)
+![Static Badge](sillybilly.png)
 
+![Static Badge](dillydally.png)
