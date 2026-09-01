@@ -28,3 +28,11 @@ Math.random();
 * Markdown er et enkelt formateringspråk for skrift
 * Markdown er et kodespråk som funerer på mange forskjellige platformer
 * markdown er brukt av mange folk
+
+Dette er hvordan du Escape-tegner bold tekst:
+\*\*I'm so cool\*\*
+
+Detter er hvordan du Escape-tegner italics tekst:
+\_I'm so cool\_
+
+Du må skrive \ foran hvert tegn. 
