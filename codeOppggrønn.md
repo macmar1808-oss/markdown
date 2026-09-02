@@ -45,3 +45,7 @@ I also love dogs, they're so friendly and energetic, but a bit too much for me.
 Forklaring av html taggene "H1-H6": 
 
 H1-H6 er det samme som hashtaggene i markdown, de manipulerer størrelsen av teksten. H1 er den største og H6 er den minste. 
+
+
+**strikethrough setning eksempel:**
+~~I don't like cats~~

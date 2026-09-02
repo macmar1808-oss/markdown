@@ -15,3 +15,7 @@ def main():
 - [] Rydding
 - [] Måke snø
 
+
+
+**Eksempel på automatiske lenker:**
+[Artfight](https://artfight.net/)
